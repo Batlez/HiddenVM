@@ -7,6 +7,8 @@ This executable facilitates bypassing virtual machine detection mechanisms often
 
 [VirusTotal Scan](https://www.virustotal.com/gui/file/17ba6063ba20eba0ffc6538609d0cd216e015efd146e6e82e7de33e743cd8905/detection)
 
+[Download from here](https://www.mediafire.com/folder/wyy80hf59kd9r/HiddenVM) if you get errors from downloading from releases!
+
 Some proctoring software that this bypasses are: Examity, Respondus (LockDown Browser), Safe Exam Browser, Proctoru Guardian and Pearson VUE.
 ![image](https://github.com/Batlez/HiddenVM/assets/63690709/51e1df60-4338-4da9-b5a3-ffe61c054797)
 ![image](https://github.com/Batlez/HiddenVM/assets/63690709/9f3ae77a-2bea-4824-bf3f-24556fb54045)
